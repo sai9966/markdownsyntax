@@ -24,6 +24,6 @@ __*ece*__
     1. eeeA
     2. eeeB
 3. cse
-    5. cseA
-    6. cseB
+    1. cseA
+    2. cseB
 
