@@ -46,5 +46,6 @@ print("hello")
 []()
 - git official site Url
 []()
-
+### Inserting Images
+![butterfly](https://github.com/madevi431/markdownsyntax/blob/master/img1.jpg)
 
