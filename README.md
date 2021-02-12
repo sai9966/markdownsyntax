@@ -21,8 +21,8 @@ __*ece*__
 ### Ordered List
 1. ece
 2. eee
-  1. eeeA
-  2. eeeB
+    1. eeeA
+    2. eeeB
 3. cse
-  5. cseA
-  6. cseB
+    5. cseA
+    6. cseB
