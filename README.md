@@ -33,4 +33,7 @@ __*ece*__
 - eee
     + eeeA
     + eeeB
-
+### Code
+`python
+print("hello")
+`
