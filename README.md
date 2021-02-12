@@ -49,7 +49,6 @@ print("hello")
 ### Inserting Images
 ![butterfly](https://github.com/madevi431/markdownsyntax/blob/master/img1.jpg)
 ## Insering Vedios
-[![vedio]()](https://www.youtube.com/watch?v=X7R-q9rsrtU)
-
+[![vedio](https://img.youtube.com/vi/X7R-q9rsrtU/0.jpg)](https://www.youtube.com/watch?v=X7R-q9rsrtU)
 
 
