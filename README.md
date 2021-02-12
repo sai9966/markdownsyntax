@@ -40,5 +40,11 @@ print("hello")
 ### task Insert a code of hello in c
 ### Inserting Urls
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+- college web site link
+[]()
+- Gmail link
+[]()
+- git official site Url
+[]()
 
 
